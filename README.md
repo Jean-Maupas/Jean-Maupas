@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jean-Maupas
-- 👀 I’m interested in CLINICAL RESEARCH, DATA MANAGAMENT, DATA SCIENCE, SOFTWARE DEVELOPMENT
-- 🌱 I’m currently learning Pandas, Vue, Rust
+- 👀 I’m interested in SOFTWARE ENGINEERING, DATA SCIENCE, CLINICAL RESEARCH, DATA MANAGAMENT
+- 🌱 I’m currently learning Kotlin, Pandas, Vue, Svelte, Rust
 - 💞️ I’m looking to collaborate on Clinical/Data Science Standard
 - 📫 How to reach me through LinkedIn
 
